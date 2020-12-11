@@ -31,3 +31,4 @@ class Bird {
     console.log(`${name} says squawk!`)
   }
 }
+}
